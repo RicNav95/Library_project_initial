@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="ucanaccess">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Documents/ds3/ucanaccess" />
+      <root url="file://$USER_HOME$/Downloads/java email" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Documents/ds3/ucanaccess" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/java email" recursive="false" />
+  </library>
+</component>
